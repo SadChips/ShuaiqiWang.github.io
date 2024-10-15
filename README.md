@@ -1,2 +1,2 @@
-# ShuaiqiWang.github.io
+# ShuaiqiWong.github.io
 Personal Web
